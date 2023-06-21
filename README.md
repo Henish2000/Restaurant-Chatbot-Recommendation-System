@@ -58,7 +58,7 @@ a. Use API Gateway to setup your API
     * Create a Lambda function (LF0) that performs the chat operation
     * Use the request/response model (interfaces) specified in the API specification above
 
-ii. For now, just implement a boilerplate response to all messages:
+  ii. For now, just implement a boilerplate response to all messages:
     * ex. User says anything, Bot responds: "I’m still under development. Please come back later."
 ```
 
